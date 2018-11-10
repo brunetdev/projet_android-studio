@@ -3,9 +3,9 @@
 
 ## Description
 
-Ce projet a été développer durant ma formation afin de m'initier au développement mobile.
+Ce projet a été développé durant ma formation afin de m'initier au développement mobile sous android studio.
 
-Il est codé bien évidement avec le langage java et il a pour seul fonctionnalité d'affiché la météo.
+Il est codé bien évidement avec le langage java et il à pour seul fonctionnalité d'affiché la météo.
 
 Pour cela il utilise une API google.
 
