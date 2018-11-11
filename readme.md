@@ -10,11 +10,7 @@ Il est codé bien évidement avec le langage java et il à pour seul fonctionnal
 Pour cela il utilise une API google.
 
 
-## The Author
-
-[Jonathan Brunet](http://www.brunetdev.com)
+Vous pouvez en savoir plus sur moi en cliquant sur mon nom [Jonathan Brunet](http://www.brunetdeveloppeur.com) :)
 
 
-## Contact the Author
-
-By email at: *brunetdev@gmail.com*
+Je suis joignable à cette adresse *brunet.dev@gmail.com*
